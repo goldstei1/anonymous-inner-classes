@@ -39,6 +39,6 @@ public class GreetableExperiments {
      * Main!
      */
     public static void main(String[] args) {
-        experiment(new SampleGreetable6());
+        experiment(new SampleGreetable8());
     } // main(String[])
 } // class GreetableExperiments

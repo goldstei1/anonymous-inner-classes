@@ -19,3 +19,4 @@ public class SampleGreetable4 implements Greetable {
         }; // new Greeter
     } // greeter()
 } // interface SampleGreetable4
+
